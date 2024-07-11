@@ -22,5 +22,5 @@ An AI-based chatbot that can answer questions and provide information. This proj
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/USERNAME/ai-chatbot.git
+   git clone https://github.com/sriyaa3/ai-chatbot.git
    cd ai-chatbot
